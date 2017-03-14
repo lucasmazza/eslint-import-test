@@ -1,0 +1,15 @@
+{
+  "name": "eslint-import-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lucasmazza/eslint-import-test.git",
+  "author": "Lucas Mazza <lucastmazza@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
